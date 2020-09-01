@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Rumus Matematika</string>
+    <string name="alas">Alas</string>
+    <string name="tinggi">Tinggi</string>
+    <string name="btn_hitung">Hitung</string>
+    <string name="hasil">Hasil</string>
+</resources>
